@@ -1,6 +1,6 @@
 # Hello, World! 👋
 
-I'm Harshal Patil, a passionate Web Developer from India. Welcome to my GitHub profile!
+I'm Harshal Patil, a passionate Web Developer hailing from the vibrant tech landscape of India. Welcome to my GitHub profile, where I tinker with code and explore the endless possibilities of web development! 🌐
 ## 🚀 About Me
 
 - 🔭 I’m currently a pursuing a B.Tech degree in computer science from Pillai College of Engineering.
