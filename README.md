@@ -12,8 +12,6 @@
 - 🛠️ Tech stack includes React, Next.js, TailwindCSS, MongoDB, Express, and more
 - 🧩 I live for solving problems & making web apps smoother than your Spotify Wrapped
 - ✉️ Hit me up: **patilharshal3558@gmail.com**
-- 🌐 Portfolio: [harshalcodes.vercel.app](https://harshalcodes.vercel.app)
-- 🔗 LinkedIn: [linkedin.com/in/harshal-patil-b901b6249](https://www.linkedin.com/in/harshal-patil-b901b6249)
 
 ---
 
