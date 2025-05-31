@@ -38,10 +38,3 @@
 - ☁️ Vercel
 
 ---
-
-### 🤓 Fun Fact
-
-> I unwind with movies like it's a full-time job 🍿🎬  
-> Let's connect, collab, and build something dope together 💥
-
----
