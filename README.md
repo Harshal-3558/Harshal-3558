@@ -36,5 +36,3 @@
 - 🛠️ Express, MongoDB, MySQL  
 - 🧰 Git & GitHub  
 - ☁️ Vercel
-
----
